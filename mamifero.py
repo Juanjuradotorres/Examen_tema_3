@@ -7,3 +7,4 @@ class Mamifero(Animal):
 
     def amamantar(self):
         print(f"{self.nombre} está amamantando a sus crías.")
+

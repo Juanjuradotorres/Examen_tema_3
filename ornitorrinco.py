@@ -10,3 +10,4 @@ class Ornitorrinco(Oviparo, Mamifero):  # Hereda de Oviparo y Mamifero
 
     def construir_madriguera(self):
         print(f"{self.nombre} está construyendo una madriguera con su cola de castor.")
+

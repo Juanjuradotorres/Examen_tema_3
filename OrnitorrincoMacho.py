@@ -7,3 +7,4 @@ class OrnitorrincoMacho(Ornitorrinco):
 
     def inyectar_veneno(self):
         print(f"{self.nombre} está inyectando veneno con sus espolones.")
+

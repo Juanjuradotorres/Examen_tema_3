@@ -7,3 +7,4 @@ class Leon(Mamifero):
 
     def rugir(self):
         print(f"{self.nombre} está rugiendo.")
+
